@@ -62,6 +62,11 @@ composition, this question can be reasonable scoped. But with the Hack proposal,
 I see no better way to avoid these arguments than to avoid the operator
 entirely.
 
+**Do you want your child to learn to code using `"Hello, World!" |> console.log(%);`?**
+
+I didn't think so! Please star this repository, and hopefully we can stop the
+Hack proposal ;)
+
 ## Further reading
 
 - [Effect of Hack proposal on code readability](https://github.com/tc39/proposal-pipeline-operator/issues/225)
